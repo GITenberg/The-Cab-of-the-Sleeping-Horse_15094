@@ -1,0 +1,36 @@
+_repo: The-Cab-of-the-Sleeping-Horse_15094
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Van Dresser, William
+    aliases:
+    - Dresser, William T. Van
+    - Dresser, William Van
+    birthdate: 1871
+    deathdate: 1950
+    gutenberg_agent_id: '33935'
+    url: http://www.gutenberg.org/2009/agents/33935
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, John Reed
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '5842'
+    url: http://www.gutenberg.org/2009/agents/5842
+description: ''
+gutenberg_issued: '2005-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Cab of the Sleeping Horse
+url: http://www.gutenberg.org/ebooks/15094
